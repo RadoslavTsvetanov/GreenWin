@@ -1,0 +1,6 @@
+[submodule "GreenWinFrontend"]
+	path = GreenWinFrontend
+	url = https://github.com/RadoslavTsvetanov/GreenWinFrontend.git
+[submodule "GreenWinBackend"]
+	path = GreenWinBackend
+	url = https://github.com/RadoslavTsvetanov/GreenWinBackend.git
